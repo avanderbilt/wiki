@@ -2,4 +2,6 @@
 
 Hello there.
 
-[The Classical Planets](The%20Classical%20Planets)
+## Index
+
+[The Classical Planets](The%20Classical%20Planets.md)
