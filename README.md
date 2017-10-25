@@ -2,4 +2,4 @@
 
 Hello there.
 
-[Test](TheClassicalPlanets)
+[The Classical Planets](The%20Classical%20Planets)
